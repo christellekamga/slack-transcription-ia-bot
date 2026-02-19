@@ -1,0 +1,7 @@
+slack-bolt
+openai
+yt-dlp
+python-dotenv
+python-docx
+reportlab
+requests
